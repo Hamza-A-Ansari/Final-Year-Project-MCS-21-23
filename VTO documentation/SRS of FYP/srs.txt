@@ -1,0 +1,58 @@
+Requirement specifications
+	Existing System:
+	As technology progresses, the need for artificial intelligence grows. Various
+	studies in different areas are being done for the integration of artificial 
+	intelligence, resulting in AI evolving at a rapid pace.
+	Customers may utilize apps that allow them to enter their height, weight,
+	and body shape to generate a digital avatar that can be used to try on
+	clothes digitally. Although the digital avatar is not the same as the user, app
+	developers may create an interface that uses the device’s live camera feed to
+	scan the user’s body and put digital outfit on their person. The end result
+	would be a highly exact and precise fitting room experience that you could
+	have from the comfort of your own home.
+
+	Proposed System:
+	Our Hybrid web and app will be designed for devices that meet all of the standards for artificial intelligence. The software will be free to download and use, and everything will be unlocked. Our application has many features the first main feature is virtual try-on with the help of artificial intelligence, here let's take the example of glasses with the help of this feature users can able to adjust glasses model on their face by using a webcam or mobile camera, all the outfit standard size measurements that a normal user would want for choosing the perfect size outfit while online/onsite shopping at outfit brand stores like Outfitters, Furor, etc. The other main feature is the chatbot in the hybrid system, this makes the application user-friendly it will give suggestions to the user on their shopping. As we have said, modern customers prefer sending messages to businesses rather than making phone calls. But, to keep customers engaged with your business, you need to respond in time. In fact, according to Har		vard Business Review research, a five-minute delay in answering a customer query decreases the customer engagement rate. By providing customers with immediate responses, shopping chatbots significantly drive sales to an online store. When customers are visiting an online store to buy a particular pair of jeans, they spend some time in the product catalog to find the exact pair they are searching for. Such a buying process may become an irritating experience, especially if an online store has numerous product categories. To avoid this, we integrate chatbots to help buyers in selecting products that perfectly meet their needs. 
+        
+	Intented Audience:
+	This hybrid system is designed for both desktop and mobile users. The targeted audience of our system is an individuals, entrepreneurs, outfit brands and people who are related to outfit niche.
+	
+	Functional Requirements:
+		Sign up:
+			• If a new client uses the system for the first time, they must create a new account.
+			• They must first sign up.
+		Login:
+			• Logging in is required to have full access to the application.
+			• The user will log in using the same email address and password that they used to register.
+		Glasses Virtual try-on:
+			• User can try any intended glasses virtually by using a simple camera.
+			• The user can inspect virtually worn glasses from any face aspect. 
+		Shirt Virtual try-on:
+			• User can try any intended shirt virtually by using a simple camera.
+			• The user can inspect virtually worn shirts from any face aspect. 
+		Chatbot:
+			• Users can talk to the chatbot at any time, or place, assisting users in making purchases or addressing their anxiety, showing them brand care. 
+		Color-complexion:
+			• User can also visit products that suits his/her skin color.	
+		Logout:
+			• The user can log out of the application and the system will log out the user and redirect him to the login screen.
+	Non-functional Requirements
+		Usability
+			• The system should have a basic and easy-to-understand interface.
+			• The system should be simple to learn and guide users.
+			• There should be recognized 3D models in the system.
+		Reliability
+			• The system should be able to manage situations that might cause the app to crash.
+			• The system should be able to handle a large number of users.
+		Availability
+			• The application should be available 24/7 for users.
+		Performance
+			• The system must be effective and quick.
+			• The system should have all of its features operational.
+			• When a new catalogue is added, the system’s database should be updated.
+		Supportability
+			• The system should be developed such that it may be used by devices other than high-end ones.
+			• The system should be adaptable to changes and flexible.
+		Packaging
+			• The system should be compatible with android devices and computer systems.
+
